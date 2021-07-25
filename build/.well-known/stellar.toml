@@ -10,7 +10,7 @@ ORG_NAME="Cryptocurrency"
 ORG_URL="https://www.gemsociety.org"
 ORG_DESCRIPTION="Hand-Poured Pure Silver Stormtrooper Mask. 225.00. Quick View. Original American Silver Eagle Dollar Coin Ring."
 ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/X3zWgxL/tronchain.png"
+ORG_LOGO="https://i.ibb.co/SN5pjj1/luke.jpg"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
@@ -20,7 +20,7 @@ issuer="GDSRA2RC2WVTV46V75UHMDIFVG5R4S2MJCOUBB3LFIR2PHMXBPUDCSD7"
 anchor_asset="false"
 name="Luke Coin"
 desc="Hand-Poured Pure Silver Stormtrooper Mask. 225.00. Quick View. Original American Silver Eagle Dollar Coin Ring."
-image="https://i.ibb.co/X3zWgxL/tronchain.png"
+image="https://i.ibb.co/SN5pjj1/luke.jpg"
 fixed_number=1000000000
 max_number=1000000000
 is_unlimited=false
