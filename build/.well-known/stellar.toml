@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GA2J2UIOORZFQ77NSBMEEWXLPW7OCC24MW2QIGIZJNVUAFWNLVOSHQCF"
+"GDSRA2RC2WVTV46V75UHMDIFVG5R4S2MJCOUBB3LFIR2PHMXBPUDCSD7"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="Cryptocurrency"
 ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="TRON is a Blockchain with a cryptocurrency native to the system, known as TRX. Justin Sun founded the cryptocurrency in 2017."
+ORG_DESCRIPTION="Hand-Poured Pure Silver Stormtrooper Mask. 225.00. Quick View. Original American Silver Eagle Dollar Coin Ring."
 ORG_TWITTER="@GEMSOCIETY"
 ORG_LOGO="https://i.ibb.co/X3zWgxL/tronchain.png"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
-code="TronChain"
-issuer="GA2J2UIOORZFQ77NSBMEEWXLPW7OCC24MW2QIGIZJNVUAFWNLVOSHQCF"
+code="LUKE"
+issuer="GDSRA2RC2WVTV46V75UHMDIFVG5R4S2MJCOUBB3LFIR2PHMXBPUDCSD7"
 anchor_asset="false"
-name="TronChain"
-desc="TRON is a Blockchain with a cryptocurrency native to the system, known as TRX. Justin Sun founded the cryptocurrency in 2017."
+name="Luke Coin"
+desc="Hand-Poured Pure Silver Stormtrooper Mask. 225.00. Quick View. Original American Silver Eagle Dollar Coin Ring."
 image="https://i.ibb.co/X3zWgxL/tronchain.png"
-fixed_number=10000000
-max_number=10000000
+fixed_number=1000000000
+max_number=1000000000
 is_unlimited=false
-#TronChain was issued using the open and inclusive Stellar blockchain network.
+#LukeCoin was issued using the open and inclusive Stellar blockchain network.
